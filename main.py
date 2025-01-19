@@ -7,8 +7,10 @@ from icecream import ic
 
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "69509d96-a607-4d60-839a-5b2c52c1230b"
+
 FLOW_ID = "109ca906-67fb-4549-b2d8-3b697ca7dab7"
 APPLICATION_TOKEN = config("APP_TOKEN")
+
 ENDPOINT = "customer"
 
 
